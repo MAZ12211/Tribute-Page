@@ -1,0 +1,64 @@
+/*TABLE OF CONTENTS:
+  1- TAGS
+  2- IDs
+  3- TRIBUTE-LINK
+*******************/
+
+#main {
+  text-align: center;
+}
+
+/*TAGS*/
+
+p {
+  font-size: 10px;
+  font-weight: 100;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+ul {
+  text-align: left;
+  position: relative;
+  left: 10px;
+}
+
+/*IDs*/
+
+#tribute-info {
+  padding: 5px;
+  background-color: #d9d9d9;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: auto; /*Don't you ever delete that! otherwise the img wouldn't be centered properly on desktop!!!*/
+}
+
+#quote {
+  color: gray;
+  font-size: 13px;
+}
+
+/*TRIBUTE LINK*/
+
+#tribute-link {
+  color: blue;
+}
+
+#tribute-link:hover {
+  color: purple;
+}
+
+.title-body {
+  background-color: #d9d9d9;
+  padding: 2px;
+  margin: 20px;
+}
